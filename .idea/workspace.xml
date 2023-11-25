@@ -1,17 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="623ea284-0cd1-44f2-9da9-6cd4960fa6d5" name="Default Changelist" comment="" />
+    <list default="true" id="623ea284-0cd1-44f2-9da9-6cd4960fa6d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Attendance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CardioEquipment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Equipment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Management.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeightedEquipment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2YgNkji8lWnwagoEUSdadRQtICT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -23,11 +47,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700943407820</updated>
-      <workItem from="1700943414601" duration="1000" />
+      <workItem from="1700943414601" duration="733000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="184" y="4" key="#Project_Structure" timestamp="1700946731151">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="4" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1700946731151" />
     <state x="288" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1700943413601">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

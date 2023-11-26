@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="623ea284-0cd1-44f2-9da9-6cd4960fa6d5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CardioEquipment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CardioEquipment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Equipment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Equipment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WeightedEquipment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WeightedEquipment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +47,7 @@
       <workItem from="1700943414601" duration="733000" />
       <workItem from="1700948107677" duration="1998000" />
       <workItem from="1700950782493" duration="983000" />
-      <workItem from="1701002416843" duration="2827000" />
+      <workItem from="1701002416843" duration="5842000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1700948275405</created>

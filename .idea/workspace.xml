@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="623ea284-0cd1-44f2-9da9-6cd4960fa6d5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Management.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Management.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Equipment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Equipment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +27,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="SvnConfiguration">
@@ -43,7 +43,9 @@
       <option name="presentableId" value="Default" />
       <updated>1700943407820</updated>
       <workItem from="1700943414601" duration="733000" />
-      <workItem from="1700948107677" duration="893000" />
+      <workItem from="1700948107677" duration="1998000" />
+      <workItem from="1700950782493" duration="983000" />
+      <workItem from="1701002416843" duration="2827000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1700948275405</created>
@@ -63,7 +65,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -83,17 +87,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="166" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1700948271840" />
-    <state x="93" y="0" key="SettingsEditor" timestamp="1700948202646">
+    <state x="319" y="105" key="FileChooserDialogImpl" timestamp="1700950998849">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="93" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1700948202646" />
+    <state x="319" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1700950998849" />
+    <state x="93" y="0" key="SettingsEditor" timestamp="1700950970347">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="93" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1700950970347" />
     <state x="184" y="78" key="Vcs.Push.Dialog.v2" timestamp="1700948285823">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="78" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1700948285823" />
-    <state x="288" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1700948106661">
+    <state x="288" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1701002982827">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="288" y="169" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1700948106661" />
+    <state x="288" y="169" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1701002982827" />
+    <state x="0" y="0" key="new project wizard" timestamp="1700951007584">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1700951007584" />
   </component>
 </project>

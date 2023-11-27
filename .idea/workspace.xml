@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="623ea284-0cd1-44f2-9da9-6cd4960fa6d5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GymManagementSystem/Attendance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GymManagementSystem/Attendance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Attendance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Attendance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CardioEquipment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CardioEquipment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Management.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Management.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WeightedEquipment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WeightedEquipment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +70,7 @@
       <workItem from="1700943414601" duration="733000" />
       <workItem from="1700948107677" duration="1998000" />
       <workItem from="1700950782493" duration="983000" />
-      <workItem from="1701002416843" duration="9878000" />
+      <workItem from="1701002416843" duration="11258000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1700948275405</created>
@@ -103,10 +108,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="4" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1700946731151" />
-    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1701061456050">
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1701063681326">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1701061456050" />
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1701063681326" />
     <state x="166" y="0" key="CommitChangelistDialog2" timestamp="1700948271840">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -115,6 +120,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="319" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1700950998849" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1701064081563">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1701064081563" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1701064081563">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1701064081563" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1701064081563">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1701064081563" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1701064081563">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1701064081563" />
     <state x="93" y="0" key="SettingsEditor" timestamp="1700950970347">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -5,6 +5,12 @@ public class Attendance {
     private Date date;
     private boolean isPresent;
 
+    public Attendance(Member member, Date date, boolean isPresent) {
+        this.member = member;
+        this.date = date;
+        this.isPresent = isPresent;
+    }
+
     public Attendance() {
     }
 

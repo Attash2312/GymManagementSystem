@@ -2,8 +2,8 @@ public class WeightedEquipment extends Equipment {
     private double weightCapacity;
     private String resistanceType;
 
-    public WeightedEquipment(String name, int quantity, double weightCapacity, String resistanceType) {
-        super(name, quantity);
+    public WeightedEquipment(String name, int quantity, double price, String description, double weightCapacity, String resistanceType) {
+        super(name, quantity, price, description);
         this.weightCapacity = weightCapacity;
         this.resistanceType = resistanceType;
     }

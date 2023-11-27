@@ -3,8 +3,8 @@ public class CardioEquipment extends Equipment {
     private int maxSpeed;
     private int resistanceLevels;
 
-    public CardioEquipment(String name, int quantity, String type, int maxSpeed, int resistanceLevels) {
-        super(name, quantity);
+    public CardioEquipment(String name, int quantity, double price, String description, String type, int maxSpeed, int resistanceLevels) {
+        super(name, quantity, price, description);
         this.type = type;
         this.maxSpeed = maxSpeed;
         this.resistanceLevels = resistanceLevels;

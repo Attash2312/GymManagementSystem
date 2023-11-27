@@ -3,11 +3,7 @@ import java.util.Date;
 public class Management {
     public static void main(String[] args) {
         // Create a Member
-        Member member = new Member();
-        member.setMemberId("M001");
-        member.setMemberName("John Doe");
-        member.setAge(25);
-        member.setMembershipType("Premium");
+        Member member = new Member("M001","Attash",25,"Premium");
 
         // Display member information
         member.displayMemberInfo();
@@ -20,19 +16,19 @@ public class Management {
         member.displayMemberInfo();
 
         // Create Cardio Equipment
-        CardioEquipment cardioEquipment = new CardioEquipment("Treadmill", 5, "Running", 10, 3);
+        CardioEquipment cardioEquipment = new CardioEquipment("Treadmill", 5, 1000, "Running", "Treadmill",30,20);
 
         // Display cardio equipment information
         cardioEquipment.displayCardioEquipmentInfo();
 
         // Create Weighted Equipment
-        WeightedEquipment weightedEquipment = new WeightedEquipment("Dumbbell Set", 10, 50.0, "Free Weights");
+        WeightedEquipment weightedEquipment = new WeightedEquipment("Dumbbell Set", 10, 50.0, "Free Weights",70, "resistance bands");
 
         // Display weighted equipment information
         weightedEquipment.displayWeightedEquipmentInfo();
 
         // Create a Trainer
-        Trainer trainer = new Trainer("T001", "Jane Smith", 30, "Fitness");
+        Trainer trainer = new Trainer("T001", "Azeem", 30, "Fitness");
 
         // Display trainer information
         trainer.displayTrainerInfo();

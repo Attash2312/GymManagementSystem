@@ -34,4 +34,11 @@ public class CardioEquipment extends Equipment {
         this.resistanceLevels = resistanceLevels;
     }
 
+    public void displayCardioEquipmentInfo() {
+        super.displayEquipmentInfo();  // Call the displayEquipmentInfo method from the parent class
+        System.out.println("Type: " + type);
+        System.out.println("Max Speed: " + maxSpeed);
+        System.out.println("Resistance Levels: " + resistanceLevels);
+    }
+
 }

@@ -24,4 +24,10 @@ public class WeightedEquipment extends Equipment {
         this.resistanceType = resistanceType;
     }
 
+    public void displayWeightedEquipmentInfo() {
+        super.displayEquipmentInfo();  // Call the displayEquipmentInfo method from the parent class
+        System.out.println("Weight Capacity: " + weightCapacity);
+        System.out.println("Resistance Type: " + resistanceType);
+    }
+
 }

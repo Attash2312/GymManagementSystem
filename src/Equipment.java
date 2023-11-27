@@ -43,4 +43,11 @@ public class Equipment {
         this.description = description;
     }
 
+    public void displayEquipmentInfo() {
+        System.out.println("Equipment Name: " + name);
+        System.out.println("Quantity: " + quantity);
+        System.out.println("Price: $" + price);
+        System.out.println("Description: " + description);
+    }
+
 }
